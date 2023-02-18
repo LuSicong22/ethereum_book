@@ -1,13 +1,3 @@
-### [《精通以太坊——实现数字合约》](https://github.com/ethereumbook/ethereumbook) 中文版
-
-### 关于译者
-互联网从业者，对经济学感兴趣，很早加入数字货币和区块链研究。
-
-闲暇时间翻译，欢迎指正，感谢加星~
-
-### 封面
-![Mastering Ethereum](images/cover.png)
-
 ### 目录
 
 [前言](前言.asciidoc)
@@ -46,12 +36,12 @@
 
 [第十六章 Vyper：面向合约的编程语言](第十六章.asciidoc)
 
-[第十七章 DevP2P协议](第十七章.asciidoc)
+[第十七章 DevP2P 协议](第十七章.asciidoc)
 
 [第十八章 以太坊标准](第十八章.asciidoc)
 
 [第十九章 以太坊分叉历史](第十九章.asciidoc)
 
-
 ### 打赏
+
 ![](images/thanks.jpeg)
